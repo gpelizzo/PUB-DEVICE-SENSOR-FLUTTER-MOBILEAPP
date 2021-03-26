@@ -1,1 +1,1 @@
-# PUB-DEVICE-SENSOR-FLUTTER-MOBILEAPP
+# cf https://projects.gepeo.fr/wine-cellar-flutter-mobile-app/
