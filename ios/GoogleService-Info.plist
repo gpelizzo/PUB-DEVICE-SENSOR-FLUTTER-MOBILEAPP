@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>437469752875-umrfj4mjkocr0s8rginf8eadivqrrmp2.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.437469752875-umrfj4mjkocr0s8rginf8eadivqrrmp2</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>437469752875-iranssr6um928biq49qd1mdac58eu6ol.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB2QHu12MQj4Z-8O92xlOVSPAmSxs5Dn4k</string>
+	<key>GCM_SENDER_ID</key>
+	<string>437469752875</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.gepeo.wine-cellar</string>
+	<key>PROJECT_ID</key>
+	<string>winecellar-4c99b</string>
+	<key>STORAGE_BUCKET</key>
+	<string>winecellar-4c99b.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:437469752875:ios:cbbff3ae277013fce5c46e</string>
+</dict>
+</plist>
